@@ -2,20 +2,20 @@
     Verificador de senha
 </h1>
 
-# <center>Índice
-- [Sobre](#-<center>🧾sobre)
-- [Tecnologias Utilizadas](#-<center>🛠-tecnologias-utilizadas)
-- [Clonando o projeto](#-<center>📁-clonando-o-projeto)
-- [Instalando Dependências](#-<center>instalando-dependências)
-    - [Instalando Python 3](#-<center>instalando-python-3)
-    - [Instalando Pip](#-<center>instalando-o-pip)
-    - [Instalando Virtualenv](#-<center>instalando-virtualenv)
-    - [Instalando Flask](#-<center>instalando-flask)
-- [Executando Projeto](#-<center>executando-projeto)
+# Índice
+- [Sobre](#-🧾sobre)
+- [Tecnologias Utilizadas](#-🛠-tecnologias-utilizadas)
+- [Clonando o projeto](#-📁-clonando-o-projeto)
+- [Instalando Dependências](#-instalando-dependências)
+    - [Instalando Python 3](#-instalando-python-3)
+    - [Instalando Pip](#-insalando-o-pip)
+    - [Instalando Virtualenv](#-instalando-virtualenv)
+    - [Instalando Flask](#-instalando-flask)
+- [Executando Projeto](#-executando-projeto)
 
 
 
-## <center>🧾Sobre
+## 🧾Sobre
 
 O projeto **Verificador de senha** é uma **API** simples que verifica a senha digitada.
 
@@ -32,7 +32,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
 ### Obs: Embora eu tenha utilizado o CSS3.0, o foco deste projeto é na execução, deixando um pouco de lado a estilização e focando no escopo do projeto.
 ---
 
-## <center>🛠 Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 
 - [Python 3.9.1](https://www.python.org/)
 - [Flask](https://palletsprojects.com/)
@@ -43,7 +43,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
 
 ---
 
-## <center>📁 Clonando o projeto
+## 📁 Clonando o projeto
 
 ```bash
 # Clonar o repositório
@@ -53,8 +53,8 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
 ```
 ---
 
-# <center>Instalando dependências
-## <center>Instalando Python 3
+# Instalando dependências
+## Instalando Python 3
 ```bash
     # Para Windows
 
@@ -75,7 +75,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
         $ sudo yum install python3
 ```
 
-## <center>Instalando o Pip
+## Instalando o Pip
 ```bash
  Caso sua versão não possua o pip
 
@@ -88,14 +88,14 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
     # Para Linux via Yum
     $ yum -y install python3-pip
  ```
- ## <center>Instalando Virtualenv
+ ## Instalando Virtualenv
 ```bash
 # Via pip
     pip install virtualenv
 ```
     
 
- ## <center>Instalando Flask
+ ## Instalando Flask
 ```bash
 # Instalando via Pip
 
@@ -104,7 +104,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
 ---
 <br>
 
-# <center>Executando Projeto
+# Executando Projeto
 
 ```bash
 # No prompt de comando
