@@ -3,15 +3,15 @@
 </h1>
 
 # <center>Índice
-- [Sobre](#-🧾sobre)
-- [Tecnologias Utilizadas](#-🛠-tecnologias-utilizadas)
-- [Clonando o projeto](#-📁-clonando-o-projeto)
-- [Instalando Dependências](#-instalando-dependências)
-    - [Instalando Python 3](#-instalando-python-3)
-    - [Instalando Pip](#-instalando-o-pip)
-    - [Instalando Virtualenv](#-instalando-virtualenv)
-    - [Instalando Flask](#-instalando-flask)
-- [Executando Projeto](#-executando-projeto)
+- [Sobre](#-<center>🧾sobre)
+- [Tecnologias Utilizadas](#-<center>🛠-tecnologias-utilizadas)
+- [Clonando o projeto](#-<center>📁-clonando-o-projeto)
+- [Instalando Dependências](#-<center>instalando-dependências)
+    - [Instalando Python 3](#-<center>instalando-python-3)
+    - [Instalando Pip](#-<center>instalando-o-pip)
+    - [Instalando Virtualenv](#-<center>instalando-virtualenv)
+    - [Instalando Flask](#-<center>instalando-flask)
+- [Executando Projeto](#-<center>executando-projeto)
 
 
 
