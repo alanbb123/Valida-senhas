@@ -8,7 +8,7 @@
 - [Clonando o projeto](#-clonando-o-projeto)
 - [Instalando Dependências](#instalando-dependências)
     - [Instalando Python 3](#instalando-python-3)
-    - [Instalando Pip](#insalando-pip)
+    - [Instalando Pip](#instalando-pip)
     - [Instalando Virtualenv](#instalando-virtualenv)
     - [Instalando Flask](#instalando-flask)
 - [Executando Projeto](#executando-projeto)
@@ -128,6 +128,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
     <img src="https://ik.imagekit.io/alanbertoldo/run2_00_00_00-00_00_30_1_fJCQAJ3fn.gif">
 </h1>
 
+### Na imagem abaixo, o proprio return devolve o valor 200 quando a senha é True e, 201 quando a senha é False 
 <h1 align="center">
     <img src="https://ik.imagekit.io/alanbertoldo/Run1_00_00_00-00_00_30_2_IzYk8I_BCm.gif">
 </h1>
