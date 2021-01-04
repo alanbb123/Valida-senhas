@@ -48,7 +48,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
 ```bash
 # Clonar o repositório
 
-    $ git clone https://github.com/alanbb123/verificador_senha.git
+    $ git clone https://github.com/alanbb123/Valida-senhas.git
 
 ```
 ---
