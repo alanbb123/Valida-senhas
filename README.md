@@ -8,7 +8,7 @@
 - [Clonando o projeto](#-📁-clonando-o-projeto)
 - [Instalando Dependências](#-instalando-dependências)
     - [Instalando Python 3](#-instalando-python-3)
-    - [Instalando Pip](#-insalando-o-pip)
+    - [Instalando Pip](##-insalando-o-pip)
     - [Instalando Virtualenv](#-instalando-virtualenv)
     - [Instalando Flask](#-instalando-flask)
 - [Executando Projeto](#-executando-projeto)
