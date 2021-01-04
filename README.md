@@ -113,7 +113,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
 # Agora execute o arquivo activate
     C:\Users\backend-challenge\Valida-senhas\venv\Scripts>activate
 
-# Com o (venv) ativado, vá até a pasta onde o arquivo python está
+# Com o (venv) executando, vá até a pasta onde o arquivo python está
     (venv) C:\Users\Desktop\backend-challenge\Valida-senhas\venv\api>
 
 # Execute o arquivo
@@ -128,7 +128,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
     <img src="https://ik.imagekit.io/alanbertoldo/run2_00_00_00-00_00_30_1_fJCQAJ3fn.gif">
 </h1>
 
-### Na imagem abaixo, o proprio return devolve o valor 200 quando a senha é True e, 201 quando a senha é False 
+### Na imagem abaixo, o próprio return devolve o valor 200 quando a senha é True e, 201 quando a senha é False 
 <h1 align="center">
     <img src="https://ik.imagekit.io/alanbertoldo/Run1_00_00_00-00_00_30_2_IzYk8I_BCm.gif">
 </h1>
