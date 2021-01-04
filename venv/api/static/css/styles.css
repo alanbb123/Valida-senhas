@@ -1,0 +1,98 @@
+/* geral */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    color: #323232;
+    border: none;
+}
+
+body {
+    background-image: url('../img/background.png');
+    background-size: cover;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+a, label {
+    font-size: .8rem;
+}
+
+a:hover {
+    color: #08558B;
+}
+
+/* container login */
+
+#password-container {
+    background-color: #FFF;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    margin-top: 30vh;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* formulário */
+
+form {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+label, input {
+    display: block;
+    width: 100%;
+    text-align: left;
+	
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    border-bottom: 2px solid #323232;
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+input:focus {
+    border-bottom: 2px solid #08558B;
+}
+
+input[type="submit"] {
+	background:    #edb9ea;
+	background:    linear-gradient(#edb9ea, #5eeeea);
+	border-radius: 11px;
+	padding:       10px 25px;
+	margin-bottom: -20px;
+	color:         #444444;
+	display:       inline-block;
+	font:          normal bold 19px/1 "Open Sans", sans-serif;
+	text-align:    center;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+	
+}
+
+input[type="submit"]:hover {
+    background-color: #1b223c;
+    transition: .5s;
+}
+h3 h3valida{
+	text-size: 30px;
+}
+/* Output */
+
+#output-container p{
+    margin-bottom: 30px;
+}
