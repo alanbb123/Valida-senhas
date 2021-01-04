@@ -3,9 +3,9 @@
 </h1>
 
 # Índice
-- [Sobre](#🧾sobre)
-- [Tecnologias Utilizadas](#🛠-tecnologias-utilizadas)
-- [Clonando o projeto](#📁-clonando-o-projeto)
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Clonando o projeto](#clonando-o-projeto)
 - [Instalando Dependências](#instalando-dependências)
     - [Instalando Python 3](#instalando-python-3)
     - [Instalando Pip](#insalando-o-pip)
@@ -75,7 +75,7 @@ O requisito da API é realizar uma validação na senha, atendendo os seguintes 
         $ sudo yum install python3
 ```
 
-## Instalando o Pip
+## Instalando Pip
 ```bash
  Caso sua versão não possua o pip
 
